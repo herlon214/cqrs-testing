@@ -1,0 +1,23 @@
+{
+  "name": "cqrs-testing",
+  "version": "1.0.0",
+  "description": "CQRS testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/herlon214/cqrs-testing.git"
+  },
+  "keywords": [
+    "cqrs",
+    "testing"
+  ],
+  "author": "Herlon Aguiar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/herlon214/cqrs-testing/issues"
+  },
+  "homepage": "https://github.com/herlon214/cqrs-testing#readme"
+}
